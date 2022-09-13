@@ -29,3 +29,7 @@ sum using call by reference
 length using pointers
 
 dynamic memory allocation
+
+factorial using pointers
+
+swaping usings pointers
