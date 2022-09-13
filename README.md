@@ -21,3 +21,11 @@ vowels completed
 addition using pointers
 
 maximum using pointers
+
+array elemts using pointers 
+
+sum using call by reference 
+
+length using pointers
+
+dynamic memory allocation
