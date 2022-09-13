@@ -17,3 +17,7 @@ perfect_square completed
 reverse a digit completed
 
 vowels completed
+
+addition using pointers
+
+maximum using pointers
