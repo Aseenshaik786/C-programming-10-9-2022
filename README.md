@@ -44,3 +44,6 @@ total percentage
 
 miminum maximum
 
+sum using functions and structures
+
+student information
