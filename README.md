@@ -47,3 +47,8 @@ miminum maximum
 sum using functions and structures
 
 student information
+
+subtraction using functions and structures
+
+multiplication using function and structures
+
