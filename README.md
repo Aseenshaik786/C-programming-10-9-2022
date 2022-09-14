@@ -33,3 +33,14 @@ dynamic memory allocation
 factorial using pointers
 
 swaping usings pointers
+
+book details
+
+student information
+
+marks
+
+total percentage
+
+miminum maximum
+
