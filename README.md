@@ -52,3 +52,22 @@ subtraction using functions and structures
 
 multiplication using function and structures
 
+append file
+
+average grade
+
+contents from keyboard
+
+file manipulation
+
+handling file
+
+merge file
+
+print file
+
+read name roll number
+
+reverse char file
+
+student file
