@@ -71,3 +71,15 @@ read name roll number
 reverse char file
 
 student file
+
+student info
+
+sum of natural numbers using recursion
+
+multidimentional matrice
+
+sentence to a file
+
+largest number dynamic memory allocation
+
+prime numbers using function
